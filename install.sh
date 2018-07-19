@@ -1,0 +1,1 @@
+git clone --depth=1 https://github.com/big-data-europe/docker-hive lib
