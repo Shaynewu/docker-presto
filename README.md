@@ -1,6 +1,6 @@
 # Docker Presto
 
-使用 docker-compose 启动 hive 及 prest。用于搭建测试使用的 presto 环境。
+使用 docker-compose 启动 hive 及 presto。用于搭建测试使用的 presto 环境。
 
 使用 [big-data-europe/docker-hive](https://github.com/big-data-europe/docker-hive) 仓库中的文件进行一键启动。
 
